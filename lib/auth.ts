@@ -1,4 +1,4 @@
-// Authentication utilities for NanoSeconds
+// Authentication utilities
 import crypto from "crypto"
 
 export interface User {

@@ -69,7 +69,7 @@ export default function Home() {
             <div className="w-10 h-10 rounded-lg bg-gradient-to-br from-primary to-accent flex items-center justify-center">
               <Lock className="w-6 h-6 text-primary-foreground" />
             </div>
-            <h1 className="text-2xl font-bold text-foreground">NanoSeconds</h1>
+            <h1 className="text-2xl font-bold text-foreground">AutoTrack</h1>
           </div>
           <Button variant="outline" size="sm">
             Connect Wallet
@@ -169,7 +169,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="border-t border-border/40 mt-20 py-8">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-muted-foreground">
-          <p>© 2025 NanoSeconds. Blockchain-powered transparency for the automotive industry.</p>
+          <p>© 2025 AutoTrack. Blockchain-powered transparency for the automotive industry.</p>
         </div>
       </footer>
     </div>

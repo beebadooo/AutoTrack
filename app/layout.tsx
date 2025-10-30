@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "NanoSeconds - Car Lifecycle Platform",
+  title: "AutoTrack - Car Lifecycle Platform",
   description: "Blockchain-powered unified car lifecycle management",
   generator: "v0.app",
 }
